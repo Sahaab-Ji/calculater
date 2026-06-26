@@ -1,6 +1,6 @@
 # Calculater
 
-A simple, beginner-friendly calculator built with vanilla JavaScript, HTML, and CSS.
+A simple Javascript Based, beginner-friendly calculator built with vanilla JavaScript, HTML, and CSS.
 
 This small project is designed to help beginners learn basic DOM manipulation and event handling in JavaScript by building a functional calculator.
 
